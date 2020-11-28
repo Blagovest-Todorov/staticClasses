@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\bin\Debug\netcoreapp3.1\04.CallingInstanceMethods.exe
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\bin\Debug\netcoreapp3.1\04.CallingInstanceMethods.deps.json
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\bin\Debug\netcoreapp3.1\04.CallingInstanceMethods.runtimeconfig.json
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\bin\Debug\netcoreapp3.1\04.CallingInstanceMethods.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\bin\Debug\netcoreapp3.1\04.CallingInstanceMethods.dll
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\bin\Debug\netcoreapp3.1\04.CallingInstanceMethods.pdb
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\obj\Debug\netcoreapp3.1\04.CallingInstanceMethods.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\obj\Debug\netcoreapp3.1\04.CallingInstanceMethods.AssemblyInfo.cs
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\obj\Debug\netcoreapp3.1\04.CallingInstanceMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\obj\Debug\netcoreapp3.1\04.CallingInstanceMethods.dll
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\obj\Debug\netcoreapp3.1\04.CallingInstanceMethods.pdb
+C:\Users\Bla\source\repos\ClassAndObject\04.CallingInstanceMethods\obj\Debug\netcoreapp3.1\04.CallingInstanceMethods.genruntimeconfig.cache
